@@ -1,0 +1,61 @@
+# ninja log v5
+15	1146	6902943013436158	loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+15	1146	6902943013436158	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+15	1146	6902943013436158	loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+1609	4347	6902940463141032	CMakeFiles/loading-file-and-plotting.dir/main.cpp.obj	1ce5afd496d1b202
+15	1146	6902943013436158	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+1133	2728	6901354630952961	CMakeFiles/loading-file-and-plotting.dir/ccp.cpp.obj	8764cda2b6fcc313
+1604	4283	6902940462510892	CMakeFiles/loading-file-and-plotting.dir/loading-file-and-plotting_autogen/mocs_compilation.cpp.obj	45d8b8f9be294818
+1125	2744	6901354631102997	CMakeFiles/loading-file-and-plotting.dir/lcs.cpp.obj	c869a2361cd13e8e
+1615	5998	6902940479653115	CMakeFiles/loading-file-and-plotting.dir/mainwindow.cpp.obj	c83a7bafd74b1d82
+5999	6467	6902940484312226	loading-file-and-plotting.exe	2b97ffeca0a6bd62
+20	1091	6902943313063981	loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+20	1091	6902943313063981	loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+20	1091	6902943313063981	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+20	1091	6902943313063981	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+15	1136	6902944145775616	loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+15	1136	6902944145775616	loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+15	1136	6902944145775616	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+15	1136	6902944145775616	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+1146	8432	6902944218686024	CMakeFiles/loading-file-and-plotting.dir/mainwindow.cpp.obj	c83a7bafd74b1d82
+8434	9310	6902944227357971	loading-file-and-plotting.exe	2b97ffeca0a6bd62
+7	432	6902988498959766	loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+7	432	6902988498959766	loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+7	432	6902988498959766	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+7	432	6902988498959766	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+437	3282	6902988527428352	CMakeFiles/loading-file-and-plotting.dir/mainwindow.cpp.obj	c83a7bafd74b1d82
+3283	3638	6902988530989160	loading-file-and-plotting.exe	2b97ffeca0a6bd62
+7	429	6902988783676020	loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+7	429	6902988783676020	loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+7	429	6902988783676020	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+7	429	6902988783676020	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+6	430	6902989796559901	loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+6	430	6902989796559901	loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+6	430	6902989796559901	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+6	430	6902989796559901	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+435	3243	6902989824675157	CMakeFiles/loading-file-and-plotting.dir/mainwindow.cpp.obj	c83a7bafd74b1d82
+3244	3600	6902989828222485	loading-file-and-plotting.exe	2b97ffeca0a6bd62
+7	593	6902994773626625	loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+7	593	6902994773626625	loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+7	593	6902994773626625	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+7	593	6902994773626625	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+598	3516	6902994802835829	CMakeFiles/loading-file-and-plotting.dir/mainwindow.cpp.obj	c83a7bafd74b1d82
+3517	3865	6902994806306645	loading-file-and-plotting.exe	2b97ffeca0a6bd62
+7	414	6902999271067157	loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+7	414	6902999271067157	loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+7	414	6902999271067157	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+7	414	6902999271067157	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+418	3164	6902999298544138	CMakeFiles/loading-file-and-plotting.dir/mainwindow.cpp.obj	c83a7bafd74b1d82
+3165	3528	6902999302174989	loading-file-and-plotting.exe	2b97ffeca0a6bd62
+7	423	6903000220109124	loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+7	423	6903000220109124	loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+7	423	6903000220109124	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+7	423	6903000220109124	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+428	3234	6903000248190703	CMakeFiles/loading-file-and-plotting.dir/mainwindow.cpp.obj	c83a7bafd74b1d82
+3235	3596	6903000251781599	loading-file-and-plotting.exe	2b97ffeca0a6bd62
+7	424	6903004764099432	loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+7	424	6903004764099432	loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+7	424	6903004764099432	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/timestamp	3bcda4f666e2b6ff
+7	424	6903004764099432	C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/loading-file-and-plotting_autogen/mocs_compilation.cpp	3bcda4f666e2b6ff
+428	3256	6903004792393132	CMakeFiles/loading-file-and-plotting.dir/mainwindow.cpp.obj	c83a7bafd74b1d82
+3257	3627	6903004796088583	loading-file-and-plotting.exe	2b97ffeca0a6bd62

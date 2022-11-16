@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-93a6de19d239b948f0e1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "loading-file-and-plotting",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "loading-file-and-plotting::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-loading-file-and-plotting-Debug-6f2166acfe0ee273c183.json",
+					"name" : "loading-file-and-plotting",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "loading-file-and-plotting_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-loading-file-and-plotting_autogen-Debug-9c504b1084cabc16a4ef.json",
+					"name" : "loading-file-and-plotting_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "loading-file-and-plotting_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-loading-file-and-plotting_autogen_timestamp_deps-Debug-1c61556bd060e3af45d8.json",
+					"name" : "loading-file-and-plotting_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Xuanxuan_awe/Desktop/Homework 7/build-loading-file-and-plotting-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Xuanxuan_awe/Desktop/Homework 7/loading-file-and-plotting"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
